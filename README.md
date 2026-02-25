@@ -37,13 +37,13 @@ A lot of practical learning came from solving issues that required digging deepe
 
 ## What You'll Find Here
 
-### 📱 Flutter Applications
+### Flutter Applications
 Apps built around scalable architecture, async workflows, and real application behavior rather than UI-only examples.
 
-### 🔧 Platform Integration
+### Platform Integration
 Work involving MethodChannels, Android SDK integrations, and preparing Flutter infrastructure to transition smoothly toward iOS support.
 
-### 🧪 Experiments & Learning
+### Experiments & Learning
 Smaller projects used to explore architecture patterns, performance ideas, and development improvements.
 
 ---
